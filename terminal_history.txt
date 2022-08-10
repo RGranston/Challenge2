@@ -1,0 +1,50 @@
+  130  cd unsolved
+  131  app.py
+  132  python app.py
+  133  python app.py
+  134  ls
+  135  conda activate atmdev
+  136  cd ~/Desktop/FinTech_Workspace/python_project/module2/gitrepo/test_repo
+  137  git status
+  138  git push
+  139  git status
+  140  git add README.md
+  141  git status
+  142  git push
+  143  conda activate dev
+  144  conda list jupyterlab
+  145  python -m ipykernel install --user --name dev --display-name "python (dev)"
+  146  jupyterlab
+  147  jupyter lab
+  148  conda deactivate
+  149  conda activate dev
+  150  jupyter lab
+  151  source C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/Scripts/activate C:\Users\squaw\anaconda3\envs\dev\envs\atmdev
+  152  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  153  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  154  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  155  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  156  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  157  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  158  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  159  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  160  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  161  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  162  python app.py
+  163  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  164  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  165  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  166  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  167  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  168  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  169  python app.py
+  170  python app.py
+  171  cd c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2
+  172  C:/Users/squaw/anaconda3/envs/dev/envs/atmdev/python.exe c:/Users/squaw/Desktop/FinTech_Workspace/Python_Project/Challenge2/app.py
+  173  python app.py
+  174  python app.py
+  175  python app.py
+  176  cd .
+  177  cd ..
+  178  cd challenge2
+  179  history 50 > terminal_history.txt
