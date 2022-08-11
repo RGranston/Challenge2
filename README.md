@@ -34,9 +34,12 @@ To use the loan qualifier application run the **app.py** with:
 python app.py
 ```
 You will be promted with:
+
 ![Image showing first input](/images/input1.PNG)
 
-To use the default CSV file use the following file path: ./data/daily_rate_sheet.csv
+To use the default CSV file use the following file path: 
+
+/data/daily_rate_sheet.csv
 
 ## Contributors
 
